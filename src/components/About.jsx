@@ -6,8 +6,8 @@ const About = () => {
     <section className='h-screen bg-[--primary-black] relative text-[--font-white] flex items-center justify-around'>
       <div className='flex flex-col items-start gap-10'>
         <h2 className='text-7xl font-bold'>
-          About{" "}
-          <span className='text-[--secondary-purple] text-6xl font-thin'>
+          About
+          <span className='text-[--secondary-purple] text-6xl font-thin ml-3'>
             Us
           </span>
         </h2>
